@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-🙋‍♀️ A short introduction - what is Entorpy AI is all about?
-Entropy AI believes in making usable and explainable AI native products accessible to everyone
+🙋‍♀️ A short introduction - what is Latentic AI is all about?
+Latentic AI believes in making usable and explainable AI native products accessible to everyone
 
 👩‍💻 Projects resources
 Some of our interesting projects:

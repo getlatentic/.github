@@ -15,6 +15,7 @@ The work is applied to **AI in education**, for teachers and learners, as well a
 
 | **Project**                                               |                                                                         |
 | --------------------------------------------------------- | ----------------------------------------------------------------------- |
+| [graspy](https://github.com/getlatentic/graspy)           | An AI tutor for the learner's own class, in their language. [Try it](https://graspy.getlatentic.com). |
 | [Compose](https://github.com/getlatentic/compose)         | Local-first AI Markdown editor for macOS.                               |
 | [Syntactic](https://github.com/getlatentic/syntactic-ios) | Learn Rust offline on an iPhone with an on-device WebAssembly compiler. |
 
